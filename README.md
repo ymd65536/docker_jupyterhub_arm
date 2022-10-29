@@ -1,4 +1,4 @@
-# 　ARM アーキテクチャのEC2でDocker　を起動してJupyterHub を実行する
+# 　ARM アーキテクチャのEC2でDocker を起動してJupyterHub を実行する
 
 ## 　セットアップコマンド
 
